@@ -1,0 +1,27 @@
+﻿Build started 3/6/2017 11:12:39 AM.
+     1>Project "E:\Comp\prob7\prob7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\prob7.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt prob7.cpp
+         prob7.cpp
+     1>e:\comp\prob7\prob7.cpp(45): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\comp\prob7\prob7.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\comp\prob7\prob7.cpp(53): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\comp\prob7\prob7.cpp(56): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\comp\prob7\prob7.cpp(64): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\comp\prob7\prob7.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\comp\prob7\prob7.cpp(67): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\comp\prob7\prob7.cpp(74): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\comp\prob7\prob7.cpp(75): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\comp\prob7\prob7.cpp(77): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\comp\prob7\prob7.cpp(82): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\comp\prob7\prob7.cpp(92): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\comp\prob7\prob7.cpp(93): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Comp\prob7\Debug\prob7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Comp\prob7\Debug\prob7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Comp\prob7\Debug\prob7.lib" /MACHINE:X86 Debug\prob7.obj
+         Debug\stdafx.obj
+         prob7.vcxproj -> E:\Comp\prob7\Debug\prob7.exe
+     1>Done Building Project "E:\Comp\prob7\prob7.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.90
